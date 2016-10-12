@@ -1,0 +1,25 @@
+<products>
+    <product>
+        <id>5591</id>
+        <name>ilyas</name>
+        <department>bsse</department>
+        <type>student</type>
+        <email>ilyas@gmail.com</email>
+
+
+    </product>
+    <product>
+        <id>5511</id>
+        <name>fazalnabi</name>
+        <department>bsse</department>
+        <type>internee</type>
+        <email>fazal@gmail.com</email>
+    </product>
+    <product>
+        <id>5534</id>
+        <name>hammad</name>
+        <department>bsse</department>
+        <type>teacher</type>
+        <email>hammad@gmail.com</email>
+    </product>
+</products>
